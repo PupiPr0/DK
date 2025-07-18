@@ -18,6 +18,13 @@ To get started with DK, follow these steps:
 3. **Start Chatting**: Add contacts and start your secure conversations!
 
 
+## Images
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/PupiPr0/DK/blob/main/843968_normal.png?raw=true" alt="MacOS" style="width: 45%;"/>
+    <img src="https://github.com/PupiPr0/DK/blob/main/843971_normal.png?raw=true" alt="Windows" style="width: 45%;"/>
+</div>
+
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to DK, please fork the repository and submit a pull request.
